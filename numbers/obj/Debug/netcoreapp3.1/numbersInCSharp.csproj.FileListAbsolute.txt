@@ -1,0 +1,13 @@
+/home/grzeszo/learning-csharp/numbers/bin/Debug/netcoreapp3.1/numbersInCSharp
+/home/grzeszo/learning-csharp/numbers/bin/Debug/netcoreapp3.1/numbersInCSharp.deps.json
+/home/grzeszo/learning-csharp/numbers/bin/Debug/netcoreapp3.1/numbersInCSharp.runtimeconfig.json
+/home/grzeszo/learning-csharp/numbers/bin/Debug/netcoreapp3.1/numbersInCSharp.runtimeconfig.dev.json
+/home/grzeszo/learning-csharp/numbers/bin/Debug/netcoreapp3.1/numbersInCSharp.dll
+/home/grzeszo/learning-csharp/numbers/bin/Debug/netcoreapp3.1/numbersInCSharp.pdb
+/home/grzeszo/learning-csharp/numbers/obj/Debug/netcoreapp3.1/numbersInCSharp.csprojAssemblyReference.cache
+/home/grzeszo/learning-csharp/numbers/obj/Debug/netcoreapp3.1/numbersInCSharp.AssemblyInfoInputs.cache
+/home/grzeszo/learning-csharp/numbers/obj/Debug/netcoreapp3.1/numbersInCSharp.AssemblyInfo.cs
+/home/grzeszo/learning-csharp/numbers/obj/Debug/netcoreapp3.1/numbersInCSharp.csproj.CoreCompileInputs.cache
+/home/grzeszo/learning-csharp/numbers/obj/Debug/netcoreapp3.1/numbersInCSharp.dll
+/home/grzeszo/learning-csharp/numbers/obj/Debug/netcoreapp3.1/numbersInCSharp.pdb
+/home/grzeszo/learning-csharp/numbers/obj/Debug/netcoreapp3.1/numbersInCSharp.genruntimeconfig.cache
