@@ -1,0 +1,13 @@
+/home/grzeszo/myApp/bin/Debug/netcoreapp3.1/myApp
+/home/grzeszo/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/home/grzeszo/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/home/grzeszo/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/home/grzeszo/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/home/grzeszo/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/home/grzeszo/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/home/grzeszo/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/home/grzeszo/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/home/grzeszo/myApp/obj/Debug/netcoreapp3.1/myApp.csproj.CoreCompileInputs.cache
+/home/grzeszo/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/home/grzeszo/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
+/home/grzeszo/myApp/obj/Debug/netcoreapp3.1/myApp.genruntimeconfig.cache
